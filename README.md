@@ -34,7 +34,7 @@ We offer [`training workshops`](http://ccdatalab.org/training) to teach research
 
 * [View our current training modules.](https://github.com/AlexsLemonade/training-modules) 
 * [Sign up to be notified about future training workshops.](https://share.hsforms.com/1y55bYTSKSVKVOejXnM9lIg336z0) 
-* Questions? Interested in using our materials to hold your own workshop? Contact us at `training@ccdatalab.org`.
+* Questions? Interested in using our materials to hold your own workshop? Contact us at [`training@ccdatalab.org`](mailto:training@ccdatalab.org).
 
 # Get Involved
 
