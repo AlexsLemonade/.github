@@ -16,7 +16,7 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
  
 * [Read the documentation.](http://docs.refine.bio/en/latest/)
 * [Get started](https://alexslemonade.github.io/refinebio-examples/01-getting-started/getting-started.html) with [example workflows for use with refine.bio data.](https://github.com/AlexsLemonade/refinebio-examples)
-* [Learn about building and running the refine.bio project source code.](https://github.com/AlexsLemonade/refinebio).
+* [Learn about building and running the refine.bio project source code.](https://github.com/AlexsLemonade/refinebio)
 
 ## Single-cell Pediatric Cancer Atlas (ScPCA)
 
