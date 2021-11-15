@@ -40,7 +40,7 @@ We offer [`training workshops`](http://ccdatalab.org/training) to teach research
 
 Visit us at [`ccdatalab.org`](http://ccdatalab.org) and follow us on Twitter, [`@CancerDataLab.`](https://twitter.com/cancerdatalab)
 
-**We're hiring!** Are you interested in a unique opportunity to serve the childhood cancer research community? Visit our [`careers page`](https://www.ccdatalab.org/careers) to learn more about our current openings:
+**We're hiring!** Are you interested in a unique opportunity to serve the childhood cancer research community? Visit our [Careers page](https://www.ccdatalab.org/careers) to learn more about our current openings:
 
 * [Engineer](https://www.ccdatalab.org/engineer)
 * [Data Scientist](https://www.ccdatalab.org/data-scientist)
