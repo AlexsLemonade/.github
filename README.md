@@ -9,6 +9,7 @@ We also train researchers to better understand their own data and to advance the
 The Data Lab team simultaneously contributes to childhood cancer research and to the open science and open source software communities.
 
 # Our Projects
+
 [`refine.bio`](https://www.refine.bio/) is a multi-organism collection of genome-wide transcriptome or gene expression data that has been obtained from publicly available repositories and uniformly processed and normalized.
  
 * [Read the documentation.](http://docs.refine.bio/en/latest/)
