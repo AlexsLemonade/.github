@@ -14,7 +14,7 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
  
 * [Read the documentation.](http://docs.refine.bio/en/latest/)
 * [Get started](https://alexslemonade.github.io/refinebio-examples/01-getting-started/getting-started.html) with [example workflows for use with refine.bio data.](https://github.com/AlexsLemonade/refinebio-examples)
-* [Learn about building and running the refine.bio project source code](https://github.com/AlexsLemonade/refinebio).
+* [Learn about building and running the refine.bio project source code.](https://github.com/AlexsLemonade/refinebio).
 
 `The Single-cell Pediatric Cancer Atlas (ScPCA)` focuses on single-cell profiling with the goal of creating a publicly available atlas of single-cell pediatric cancer data. Ten ScPCA awards were funded by Alex’s Lemonade Stand Foundation. The ALSF funded researchers submit their single-cell, single-nuclei, and bulk RNA sequencing data to the Data Lab for processing. The data from these patient tumors will be made openly available in one location through the ScPCA Portal, which is currently under development. 
 
