@@ -45,4 +45,4 @@ Visit us at [`ccdatalab.org`](http://ccdatalab.org) and follow us on Twitter, [`
 * [Engineer](https://www.ccdatalab.org/engineer)
 * [Data Scientist](https://www.ccdatalab.org/data-scientist)
 
-Support our work by making a tax-deductible contribution to ALSF’s Childhood Cancer Data Lab. [`Donate here!`](http://ccdatalab.org/donate)
+Support our work by making a tax-deductible contribution to ALSF’s Childhood Cancer Data Lab. [**Donate here!**](http://ccdatalab.org/donate)
