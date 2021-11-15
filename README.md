@@ -25,7 +25,7 @@ Ten ScPCA awards were funded by Alex’s Lemonade Stand Foundation.
 The ALSF-funded researchers submit their single-cell, single-nuclei, and bulk RNA sequencing data to the Data Lab for processing. 
 The data from these patient tumors will be made available in one location through the ScPCA Portal, which is currently under development. 
 
-* [Management and analysis tools for ScPCA data.](https://github.com/AlexsLemonade/alsf-scpca)
+* [Processing workflows for ScPCA data.](https://github.com/AlexsLemonade/scpca-nf)
 * [ScPCA tools](https://github.com/AlexsLemonade/scpcaTools) and [data files for testing them.](https://github.com/AlexsLemonade/scpcaData)
 * [User information about ScPCA processing.](https://github.com/AlexsLemonade/scpca-docs)
 
@@ -48,6 +48,8 @@ We offer [`training workshops`](http://ccdatalab.org/training) to teach research
 # Get Involved
 
 Visit us at [`ccdatalab.org`](http://ccdatalab.org) and follow us on Twitter, [`@CancerDataLab.`](https://twitter.com/cancerdatalab)
+
+For inquiries, please contact us at [`info@ccdatalab.org`](mailto:info@ccdatalab.org).
 
 **We're hiring!** Are you interested in a unique opportunity to serve the childhood cancer research community? Visit our [Careers page](https://www.ccdatalab.org/careers) to learn more about our current openings:
 
