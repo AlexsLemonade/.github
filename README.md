@@ -22,7 +22,8 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 * [ScPCA tools](https://github.com/AlexsLemonade/scpcaTools) and [data files for testing them.](https://github.com/AlexsLemonade/scpcaData)
 * [User information about ScPCA processing.](https://github.com/AlexsLemonade/scpca-docs)
 
-`Open Pediatric Brain Tumor Analysis (OpenPBTA)` is a global open science initiative, which analyzes a vast collection of pediatric brain tumor data, comprising data from 943 tumors. This project operates on an open contribution model, crowdsourcing expertise from childhood brain cancer experts from across the world. 
+`Open Pediatric Brain Tumor Analysis (OpenPBTA)` is a global open science initiative, which analyzes a vast collection of pediatric brain tumor data, comprising data from 943 tumors. 
+This project operates on an open contribution model, crowdsourcing expertise from childhood brain cancer experts from across the world. 
 
 * [See the collaborative analysis in real-time.](https://github.com/AlexsLemonade/OpenPBTA-analysis)
 * [View the collaboratively written manuscript.](https://github.com/AlexsLemonade/OpenPBTA-manuscript)
