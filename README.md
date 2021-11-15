@@ -1,8 +1,12 @@
 # About Us 
 
-[The Childhood Cancer Data Lab](https://www.ccdatalab.org/) was established by Alex’s Lemonade Stand Foundation (ALSF) in 2017. The Data Lab is a team of data scientists, designers, engineers, and communicators. Our mission is to accelerate the pace of finding novel cures and treatments for childhood cancer by putting resources and knowledge in the hands of pediatric cancer experts. 
+[The Childhood Cancer Data Lab](https://www.ccdatalab.org/) was established by Alex’s Lemonade Stand Foundation (ALSF) in 2017. 
+The Data Lab is a team of data scientists, designers, engineers, and communicators. 
+Our mission is to accelerate the pace of finding novel cures and treatments for childhood cancer by putting resources and knowledge in the hands of pediatric cancer experts. 
 
-We construct tools that make vast amounts of data widely available, easily mineable, and broadly reusable. We also train researchers to better understand their own data and to advance their work more quickly. The Data Lab team simultaneously contributes to childhood cancer research and to the open science and open source software communities.
+We construct tools that make vast amounts of data widely available, easily mineable, and broadly reusable. 
+We also train researchers to better understand their own data and to advance their work more quickly. 
+The Data Lab team simultaneously contributes to childhood cancer research and to the open science and open source software communities.
 
 # Our Projects
 [`refine.bio`](https://www.refine.bio/) is a multi-organism collection of genome-wide transcriptome or gene expression data that has been obtained from publicly available repositories and uniformly processed and normalized.
