@@ -10,11 +10,15 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 
 # Our Projects
 
+## refine.bio 
+
 [`refine.bio`](https://www.refine.bio/) is a multi-organism collection of genome-wide transcriptome or gene expression data that has been obtained from publicly available repositories and uniformly processed and normalized.
  
 * [Read the documentation.](http://docs.refine.bio/en/latest/)
 * [Get started](https://alexslemonade.github.io/refinebio-examples/01-getting-started/getting-started.html) with [example workflows for use with refine.bio data.](https://github.com/AlexsLemonade/refinebio-examples)
 * [Learn about building and running the refine.bio project source code.](https://github.com/AlexsLemonade/refinebio).
+
+## Single-cell Pediatric Cancer Atlas (ScPCA)
 
 `The Single-cell Pediatric Cancer Atlas (ScPCA)` focuses on single-cell and single-nuclei profiling with the goal of creating a publicly available atlas of pediatric cancer data. 
 Ten ScPCA awards were funded by Alex’s Lemonade Stand Foundation. 
@@ -24,6 +28,8 @@ The data from these patient tumors will be made available in one location throug
 * [Management and analysis tools for ScPCA data.](https://github.com/AlexsLemonade/alsf-scpca)
 * [ScPCA tools](https://github.com/AlexsLemonade/scpcaTools) and [data files for testing them.](https://github.com/AlexsLemonade/scpcaData)
 * [User information about ScPCA processing.](https://github.com/AlexsLemonade/scpca-docs)
+
+## Open Pediatric Brain Tumor Analysis (OpenPBTA)
 
 `Open Pediatric Brain Tumor Analysis (OpenPBTA)` is a global open science initiative, which analyzes a vast collection of pediatric brain tumor data, comprising data from 943 tumors. 
 This project operates on an open contribution model, crowdsourcing expertise from childhood brain cancer experts from across the world. 
