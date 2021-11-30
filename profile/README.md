@@ -1,3 +1,6 @@
+<img width="368" alt="CCDL_2021_Logo_CMYK" src="https://user-images.githubusercontent.com/87316564/141848857-772821a0-63ca-4406-809f-60a00514ebca.png">
+
+
 # About Us 
 
 [The Childhood Cancer Data Lab](https://www.ccdatalab.org/) was established by Alex’s Lemonade Stand Foundation (ALSF) in 2017. 
