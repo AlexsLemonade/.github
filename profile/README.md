@@ -56,6 +56,8 @@ For inquiries, please contact us at [`info@ccdatalab.org`](mailto:info@ccdatalab
 
 **We're hiring!** Are you interested in a unique opportunity to serve the childhood cancer research community? Visit our [Careers page](https://www.ccdatalab.org/careers) to learn more about our current openings:
 
+* [Back-End Engineer](https://www.ccdatalab.org/backend-engineer)
+* [Front-End Engineer](https://www.ccdatalab.org/frontend-engineer)
 * [Engineer](https://www.ccdatalab.org/engineer)
 
 
