@@ -56,9 +56,6 @@ For inquiries, please contact us at [`info@ccdatalab.org`](mailto:info@ccdatalab
 
 **We're hiring!** Are you interested in a unique opportunity to serve the childhood cancer research community? Visit our [Careers page](https://www.ccdatalab.org/careers) to learn more about our current openings:
 
-* [Back-End Engineer](https://www.ccdatalab.org/backend-engineer)
-* [Front-End Engineer](https://www.ccdatalab.org/frontend-engineer)
-* [Engineer](https://www.ccdatalab.org/engineer)
-
+* [Back-End Engineer](https://www.alexslemonade.org/about/alsf-careers/back-end-engineer)
 
 Support our work by making a tax-deductible contribution to ALSF’s Childhood Cancer Data Lab. [**Donate here!**](http://ccdatalab.org/donate)
