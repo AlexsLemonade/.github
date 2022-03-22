@@ -26,7 +26,7 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 [`The Single-cell Pediatric Cancer Atlas (ScPCA)`](https://scpca.alexslemonade.org/) focuses on single-cell and single-nuclei profiling with the goal of creating a publicly available atlas of pediatric cancer data. 
 Ten ScPCA awards were funded by Alex’s Lemonade Stand Foundation. 
 The ALSF-funded researchers submit their single-cell, single-nuclei, and bulk RNA sequencing data to the Data Lab for processing. 
-The data from these patient tumors is made available in one location through the [ScPCA Portal](https://scpca.alexslemonade.org/).
+The data from these patient tumors are made available in one location through the [ScPCA Portal](https://scpca.alexslemonade.org/).
 
 * [Processing workflows for ScPCA data.](https://github.com/AlexsLemonade/scpca-nf)
 * [ScPCA tools](https://github.com/AlexsLemonade/scpcaTools) and [data files for testing them.](https://github.com/AlexsLemonade/scpcaData)
