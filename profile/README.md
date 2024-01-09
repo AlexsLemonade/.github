@@ -23,34 +23,53 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 
 ## Single-cell Pediatric Cancer Atlas (ScPCA)
 
-[`The Single-cell Pediatric Cancer Atlas (ScPCA)`](https://scpca.alexslemonade.org/) focuses on single-cell and single-nuclei profiling with the goal of creating a publicly available atlas of pediatric cancer data. 
-Ten ScPCA awards were funded by Alex’s Lemonade Stand Foundation. 
-The ALSF-funded researchers submit their single-cell, single-nuclei, and bulk RNA sequencing data to the Data Lab for processing. 
-The data from these patient tumors are made available in one location through the [ScPCA Portal](https://scpca.alexslemonade.org/).
+ALSF created the [`Single-cell Pediatric Cancer Atlas (ScPCA)`](https://scpca.alexslemonade.org/) project to generate an unprecedented resource for the pediatric cancer research community. 
+Through funding investigators’ single-cell profiling of patient samples, ALSF established an atlas of over 500 samples from more than 50 cancer types and growing. 
+To maximize the reach of this resource, the Data Lab built the ScPCA Portal to make the uniformly processed data freely available.
 
+
+* [Explore and immediately download data from the ScPCA Portal.](https://scpca.alexslemonade.org/) 
 * [Processing workflows for ScPCA data.](https://github.com/AlexsLemonade/scpca-nf)
 * [ScPCA tools](https://github.com/AlexsLemonade/scpcaTools) and [data files for testing them.](https://github.com/AlexsLemonade/scpcaData)
 * [User information about ScPCA processing.](https://github.com/AlexsLemonade/scpca-docs)
 
+
+**Interested in submitting your data to the Portal?**
+We can accept submissions of 10x Genomics single-cell or single-nuclei profiling of childhood and adolescent cancer (ages 0-19) data, broadly defined to include relevant animal models, patient-derived xenografts, or cell lines, as well as tumor data. 
+
+* [View the full contribution guidelines](https://scpca.alexslemonade.org/contribute) to learn more.
+* [Submit an interest form](https://share.hsforms.com/1Fs_Z94OzS7abnh5qEieOTA336z0) to be notified about our next call for contributions!
+
+Email [`scpca@ccdatalab.org`](mailto:scpca@ccdatalab.org) with any questions about the Portal or submitting data.
+
 ## Open Pediatric Brain Tumor Atlas (OpenPBTA)
 
-[`Open Pediatric Brain Tumor Atlas (OpenPBTA)`](https://www.ccdatalab.org/openpbta) is a global open science initiative, which analyzes a vast collection of pediatric brain tumor data, comprising data from 943 tumors. 
-This project operates on an open contribution model, crowdsourcing expertise from childhood brain cancer experts from across the world. 
+The [`Open Pediatric Brain Tumor Atlas (OpenPBTA)`](https://www.ccdatalab.org/openpbta) project was a global open science initiative, which analyzed a vast collection of pediatric brain tumor data, comprising data from over 1,000 tumors. 
+This project operated on an open contribution model, crowdsourcing expertise from childhood brain cancer experts from across the world. 
 
-* [See the collaborative analysis in real-time.](https://github.com/AlexsLemonade/OpenPBTA-analysis)
-* [View the collaboratively written manuscript.](https://github.com/AlexsLemonade/OpenPBTA-manuscript)
+In May 2023, this work was published in *Cell Genomics*. 
+[Read the OpenPBTA paper](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00115-5) to learn more!
+
+* [View the analysis repository.](https://github.com/AlexsLemonade/OpenPBTA-analysis) (now archived)
+* [View the repository for the collaboratively written manuscript.](https://github.com/AlexsLemonade/OpenPBTA-manuscript) (now archived)
 
 # Training Workshops
 
-We offer [`training workshops`](http://ccdatalab.org/training) to teach researchers the data science skills they need to examine their own data. Participants are introduced to the R programming language and to cutting-edge technologies used in single-cell and bulk RNA-sequencing data analysis. All of our training materials are openly licensed and freely available!
+We offer [`training workshops`](http://ccdatalab.org/training) to teach researchers the data science skills they need to examine their own data.
+Participants are introduced to the R programming language, reproducible research practices, and to cutting-edge technologies used in single-cell and bulk RNA-sequencing data analysis. 
 
 * [View our current training modules.](https://github.com/AlexsLemonade/training-modules) 
 * [Sign up to be notified about future training workshops.](https://share.hsforms.com/1y55bYTSKSVKVOejXnM9lIg336z0) 
-* Questions? Interested in using our materials to hold your own workshop? Contact us at [`training@ccdatalab.org`](mailto:training@ccdatalab.org).
+
+All Data Lab training materials are openly licensed and freely available for others to use. 
+**Interested in using our materials to hold your own workshop?** 
+[Learn how to get started](https://www.ccdatalab.org/hold-a-workshop) and [fill out the instructor interest form](https://share.hsforms.com/1KgR746BzThGUs-NG4oHgsw336z0) to submit an inquiry.
+
+Email [`training@ccdatalab.org`](mailto:training@ccdatalab.org) with any questions about attending or holding a workshop.
 
 # Get Involved
 
-Visit us at [`ccdatalab.org`](http://ccdatalab.org) and follow us on Twitter, [`@CancerDataLab.`](https://twitter.com/cancerdatalab)
+Visit us at [`ccdatalab.org`](http://ccdatalab.org), follow us on X at [`@CancerDataLab`](https://twitter.com/cancerdatalab), and connect with us on [`LinkedIn`](https://www.linkedin.com/showcase/childhood-cancer-data-lab/).
 
 For inquiries, please contact us at [`info@ccdatalab.org`](mailto:info@ccdatalab.org).
 
