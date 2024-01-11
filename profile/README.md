@@ -15,7 +15,7 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 
 ## refine.bio 
 
-[`refine.bio`](https://www.refine.bio/) is a multi-organism collection of genome-wide transcriptome or gene expression data that has been obtained from publicly available repositories and uniformly processed and normalized.
+[refine.bio](https://www.refine.bio/) is a multi-organism collection of genome-wide transcriptome or gene expression data that has been obtained from publicly available repositories and uniformly processed and normalized.
  
 * [Read the documentation.](http://docs.refine.bio/en/latest/)
 * [Get started](https://alexslemonade.github.io/refinebio-examples/01-getting-started/getting-started.html) with [example workflows for use with refine.bio data.](https://github.com/AlexsLemonade/refinebio-examples)
