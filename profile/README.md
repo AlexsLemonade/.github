@@ -47,8 +47,7 @@ Email [`scpca@ccdatalab.org`](mailto:scpca@ccdatalab.org) with any questions abo
 The [`Open Pediatric Brain Tumor Atlas (OpenPBTA)`](https://www.ccdatalab.org/openpbta) project was a global open science initiative, which analyzed a vast collection of pediatric brain tumor data, comprising data from over 1,000 tumors. 
 This project operated on an open contribution model, crowdsourcing expertise from childhood brain cancer experts from across the world. 
 
-In May 2023, this work was published in *Cell Genomics*. 
-[Read the OpenPBTA paper](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00115-5) to learn more!
+[Read the OpenPBTA paper](https://doi.org/10.1016/j.xgen.2023.100340) in *Cell Genomics* to learn more!
 
 * [View the analysis repository.](https://github.com/AlexsLemonade/OpenPBTA-analysis) (now archived)
 * [View the repository for the collaboratively written manuscript.](https://github.com/AlexsLemonade/OpenPBTA-manuscript) (now archived)
