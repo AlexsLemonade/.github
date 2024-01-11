@@ -23,7 +23,7 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 
 ## Single-cell Pediatric Cancer Atlas (ScPCA)
 
-ALSF created the [`Single-cell Pediatric Cancer Atlas (ScPCA)`](https://scpca.alexslemonade.org/) project to generate an unprecedented resource for the pediatric cancer research community. 
+ALSF created the [Single-cell Pediatric Cancer Atlas (ScPCA)](https://scpca.alexslemonade.org/) project to generate an unprecedented resource for the pediatric cancer research community. 
 Through funding investigators’ single-cell profiling of patient samples, ALSF established an atlas of over 500 samples from more than 50 cancer types and growing. 
 To maximize the reach of this resource, the Data Lab built the ScPCA Portal to make the uniformly processed data freely available.
 
@@ -44,7 +44,7 @@ Email [`scpca@ccdatalab.org`](mailto:scpca@ccdatalab.org) with any questions abo
 
 ## Open Pediatric Brain Tumor Atlas (OpenPBTA)
 
-The [`Open Pediatric Brain Tumor Atlas (OpenPBTA)`](https://www.ccdatalab.org/openpbta) project was a global open science initiative, which analyzed a vast collection of pediatric brain tumor data, comprising data from over 1,000 tumors. 
+The [Open Pediatric Brain Tumor Atlas (OpenPBTA)](https://www.ccdatalab.org/openpbta) project was a global open science initiative, which analyzed a vast collection of pediatric brain tumor data, comprising data from over 1,000 tumors. 
 This project operated on an open contribution model, crowdsourcing expertise from childhood brain cancer experts from across the world. 
 
 [Read the OpenPBTA paper](https://doi.org/10.1016/j.xgen.2023.100340) in *Cell Genomics* to learn more!
@@ -54,7 +54,7 @@ This project operated on an open contribution model, crowdsourcing expertise fro
 
 # Training Workshops
 
-We offer [`training workshops`](http://ccdatalab.org/training) to teach researchers the data science skills they need to examine their own data.
+We offer [`training workshops`](http://ccdatalab.org/training) to teach pediatric cancer researchers the data science skills they need to examine their own data.
 Participants are introduced to the R programming language, reproducible research practices, and to cutting-edge technologies used in single-cell and bulk RNA-sequencing data analysis. 
 
 * [View our current training modules.](https://github.com/AlexsLemonade/training-modules) 
