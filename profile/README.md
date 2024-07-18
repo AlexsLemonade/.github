@@ -61,7 +61,7 @@ OpenScPCA collaborators will:
 * Discover new datasets that can advance their research
 * Learn how to use powerful tooling for reproducible research and software development
 * Join a supportive community and meet potential collaborators 
-* Build their analysis portfolio, develop transferable skills in big data analysis, and gain experience working collaboratively in a large code base!
+* Build their analysis portfolio, develop transferable skills in data analysis, and gain experience working collaboratively in a large code base!
 
 [Fill out the contributor interest form](https://share.hsforms.com/1MlLtkGYSQa6j23HY_0fKaw336z0). 
 You will receive an email response with more information and next steps.
