@@ -24,7 +24,7 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 ## Single-cell Pediatric Cancer Atlas (ScPCA)
 
 ALSF created the [Single-cell Pediatric Cancer Atlas (ScPCA)](https://scpca.alexslemonade.org/) project to generate an unprecedented resource for the pediatric cancer research community. 
-Through funding investigators’ single-cell profiling of patient samples, ALSF established an atlas of over 500 samples from more than 50 cancer types and growing. 
+Through funding investigators’ single-cell profiling of patient samples, ALSF established an atlas of over 600 samples from more than 50 cancer types and growing. 
 To maximize the reach of this resource, the Data Lab built the ScPCA Portal to make the uniformly processed data freely available.
 
 
@@ -41,6 +41,36 @@ We can accept submissions of 10x Genomics single-cell or single-nuclei profiling
 * [Submit an interest form](https://share.hsforms.com/1Fs_Z94OzS7abnh5qEieOTA336z0) to be notified about our next call for contributions!
 
 Email [`scpca@ccdatalab.org`](mailto:scpca@ccdatalab.org) with any questions about the Portal or submitting data.
+
+## Open Single-cell Pediatric Cancer Atlas (OpenScPCA)
+
+[OpenScPCA](https://openscpca.readthedocs.io/en/latest/) is an open, collaborative project to analyze data from the ScPCA Portal. 
+This project aims to:
+
+* Characterize the ScPCA data with analyses such as labeling cell types or identifying recurrent cell states in multiple tumor types
+* Work on open and collaborative analyses
+* Build consensus around usage, strengths, and pitfalls of methods and their application to pediatric cancer data.
+* Improve the utility of the ScPCA data for the research community
+
+Join the conversation on [GitHub Discussions](https://github.com/AlexsLemonade/OpenScPCA-analysis/discussions) and explore the [`OpenScPCA-analysis` repository](https://github.com/AlexsLemonade/OpenScPCA-analysis) to see what the community is working on.
+
+**Contribute to OpenScPCA!**
+Interested in helping build a resource that will benefit a broad community of pediatric cancer researchers? 
+OpenScPCA collaborators will:
+
+* Discover new datasets that can advance their research
+* Learn how to use powerful tooling for reproducible research and software development
+* Join a supportive community and meet potential collaborators 
+* Build their analysis portfolio, develop transferable skills in data analysis, and gain experience working collaboratively in a large code base!
+
+[Fill out the contributor interest form](https://share.hsforms.com/1MlLtkGYSQa6j23HY_0fKaw336z0). 
+You will receive an email response with more information and next steps.
+
+**Grant opportunities are available for eligible pediatric cancer researchers!** 
+We’re seeking collaborators with experience analyzing single-cell RNA-seq datasets to help annotate and assign cell types to existing ScPCA datasets. 
+
+* [View the available grants](https://github.com/AlexsLemonade/OpenScPCA-analysis/discussions/571) 
+* [Read the full eligibility guidelines and acceptance criteria](https://openscpca.readthedocs.io/en/latest/grant-opportunities/)
 
 ## Open Pediatric Brain Tumor Atlas (OpenPBTA)
 
