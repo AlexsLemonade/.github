@@ -24,21 +24,18 @@ The Data Lab team simultaneously contributes to childhood cancer research and to
 ## Single-cell Pediatric Cancer Atlas (ScPCA)
 
 ALSF created the [Single-cell Pediatric Cancer Atlas (ScPCA)](https://scpca.alexslemonade.org/) project to generate an unprecedented resource for the pediatric cancer research community. 
-Through funding investigators’ single-cell profiling of patient samples, ALSF established an atlas of over 600 samples from more than 50 cancer types and growing. 
+Through funding investigators’ single-cell profiling of patient samples, ALSF established an atlas of 700 samples from 55 cancer types and growing. 
 To maximize the reach of this resource, the Data Lab built the ScPCA Portal to make the uniformly processed data freely available.
-
 
 * [Explore and immediately download data from the ScPCA Portal.](https://scpca.alexslemonade.org/) 
 * [Processing workflows for ScPCA data.](https://github.com/AlexsLemonade/scpca-nf)
 * [ScPCA tools](https://github.com/AlexsLemonade/scpcaTools) and [data files for testing them.](https://github.com/AlexsLemonade/scpcaData)
 * [User information about ScPCA processing.](https://github.com/AlexsLemonade/scpca-docs)
 
-
 **Interested in submitting your data to the Portal?**
-We can accept submissions of 10x Genomics single-cell or single-nuclei profiling of childhood and adolescent cancer (ages 0-19) data, broadly defined to include relevant animal models, patient-derived xenografts, or cell lines, as well as tumor data. 
+We can accept submissions of 10x Genomics single-cell, single-nuclei, or spatial transcriptomics profiling of childhood and adolescent cancer (ages 0-19) data, broadly defined to include relevant animal models, patient-derived xenografts, or cell lines, as well as tumor data. 
 
-* [View the full contribution guidelines](https://scpca.alexslemonade.org/contribute) to learn more.
-* [Submit an interest form](https://share.hsforms.com/1Fs_Z94OzS7abnh5qEieOTA336z0) to be notified about our next call for contributions!
+**[View the full contribution guidelines](https://scpca.alexslemonade.org/contribute) to learn more.**
 
 Email [`scpca@ccdatalab.org`](mailto:scpca@ccdatalab.org) with any questions about the Portal or submitting data.
 
@@ -66,12 +63,6 @@ OpenScPCA collaborators will:
 [Fill out the contributor interest form](https://share.hsforms.com/1MlLtkGYSQa6j23HY_0fKaw336z0). 
 You will receive an email response with more information and next steps.
 
-**Grant opportunities are available for eligible pediatric cancer researchers!** 
-We’re seeking collaborators with experience analyzing single-cell RNA-seq datasets to help annotate and assign cell types to existing ScPCA datasets. 
-
-* [View the available grants](https://github.com/AlexsLemonade/OpenScPCA-analysis/discussions/571) 
-* [Read the full eligibility guidelines and acceptance criteria](https://openscpca.readthedocs.io/en/latest/grant-opportunities/)
-
 ## Open Pediatric Brain Tumor Atlas (OpenPBTA)
 
 The [Open Pediatric Brain Tumor Atlas (OpenPBTA)](https://www.ccdatalab.org/openpbta) project was a global open science initiative, which analyzed a vast collection of pediatric brain tumor data, comprising data from over 1,000 tumors. 
@@ -98,7 +89,7 @@ Email [`training@ccdatalab.org`](mailto:training@ccdatalab.org) with any questio
 
 # Get Involved
 
-Visit us at [`ccdatalab.org`](http://ccdatalab.org), follow us on X at [`@CancerDataLab`](https://twitter.com/cancerdatalab), and connect with us on [`LinkedIn`](https://www.linkedin.com/showcase/childhood-cancer-data-lab/).
+Visit us at [`ccdatalab.org`](http://ccdatalab.org), follow us on Bluesky at [`@cancerdatalab.bsky.social`](https://bsky.app/profile/cancerdatalab.bsky.social), on X at [`@CancerDataLab`](https://twitter.com/cancerdatalab), and connect with us on [`LinkedIn`](https://www.linkedin.com/showcase/childhood-cancer-data-lab/).
 
 For inquiries, please contact us at [`info@ccdatalab.org`](mailto:info@ccdatalab.org).
 
